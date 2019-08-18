@@ -223,3 +223,16 @@ C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot
 C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
 C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.exe
 C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.JuliaSetDialog.resources
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.MocninaDialog.resources
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.profiDialog.resources
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.pdb

@@ -146,7 +146,7 @@
             this.rbJednBar.Name = "rbJednBar";
             this.rbJednBar.Size = new System.Drawing.Size(110, 17);
             this.rbJednBar.TabIndex = 4;
-            this.rbJednBar.Text = "Ond color change";
+            this.rbJednBar.Text = "One color change";
             this.rbJednBar.UseVisualStyleBackColor = true;
             this.rbJednBar.Click += new System.EventHandler(this.vyberMod);
             // 
@@ -221,7 +221,7 @@
             this.rbStinovani.Size = new System.Drawing.Size(78, 17);
             this.rbStinovani.TabIndex = 10;
             this.rbStinovani.TabStop = true;
-            this.rbStinovani.Text = "Chadowing";
+            this.rbStinovani.Text = "Shadowing";
             this.rbStinovani.UseVisualStyleBackColor = true;
             this.rbStinovani.Click += new System.EventHandler(this.vyberMod);
             // 
@@ -352,56 +352,56 @@
             // iToolStripMenuItem
             // 
             this.iToolStripMenuItem.Name = "iToolStripMenuItem";
-            this.iToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem.Text = "-0,4 + 0.6i";
             this.iToolStripMenuItem.Click += new System.EventHandler(this.iToolStripMenuItem_Click);
             // 
             // iToolStripMenuItem1
             // 
             this.iToolStripMenuItem1.Name = "iToolStripMenuItem1";
-            this.iToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem1.Text = "0.285 + 0i";
             this.iToolStripMenuItem1.Click += new System.EventHandler(this.iToolStripMenuItem1_Click);
             // 
             // iToolStripMenuItem2
             // 
             this.iToolStripMenuItem2.Name = "iToolStripMenuItem2";
-            this.iToolStripMenuItem2.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem2.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem2.Text = "0.285 + 0.01i";
             this.iToolStripMenuItem2.Click += new System.EventHandler(this.iToolStripMenuItem2_Click);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(180, 22);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(162, 22);
             this.toolStripMenuItem2.Text = "-0,7017 - 0,3842i";
             this.toolStripMenuItem2.Click += new System.EventHandler(this.toolStripMenuItem2_Click);
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(180, 22);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(162, 22);
             this.toolStripMenuItem3.Text = "-0,835 - 0,2321i";
             this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
             // 
             // iToolStripMenuItem3
             // 
             this.iToolStripMenuItem3.Name = "iToolStripMenuItem3";
-            this.iToolStripMenuItem3.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem3.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem3.Text = "-0,8 + 0,156i";
             this.iToolStripMenuItem3.Click += new System.EventHandler(this.iToolStripMenuItem3_Click);
             // 
             // iToolStripMenuItem4
             // 
             this.iToolStripMenuItem4.Name = "iToolStripMenuItem4";
-            this.iToolStripMenuItem4.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem4.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem4.Text = "-0,7269 + 0,1889i";
             this.iToolStripMenuItem4.Click += new System.EventHandler(this.iToolStripMenuItem4_Click);
             // 
             // iToolStripMenuItem5
             // 
             this.iToolStripMenuItem5.Name = "iToolStripMenuItem5";
-            this.iToolStripMenuItem5.Size = new System.Drawing.Size(180, 22);
+            this.iToolStripMenuItem5.Size = new System.Drawing.Size(162, 22);
             this.iToolStripMenuItem5.Text = "0 - 0.8i";
             this.iToolStripMenuItem5.Click += new System.EventHandler(this.iToolStripMenuItem5_Click);
             // 
@@ -565,7 +565,7 @@
             this.tabPozadi.Padding = new System.Windows.Forms.Padding(3);
             this.tabPozadi.Size = new System.Drawing.Size(162, 191);
             this.tabPozadi.TabIndex = 0;
-            this.tabPozadi.Text = "Color of backround";
+            this.tabPozadi.Text = "Color of background";
             // 
             // rbProfi
             // 
