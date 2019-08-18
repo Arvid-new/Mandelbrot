@@ -1,0 +1,225 @@
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.pdb
+E:\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.exe
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.pdb
+E:\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.exe
+E:\mandelbrot set\mandelbrot set\bin\Debug\mandelbrot set.pdb
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+E:\mandelbrot set\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.Cache
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrot set maodrá\mandelbrot set\obj\Debug\mandelbrot set.pdb
+Z:\hraní\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.exe
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.pdb
+Z:\hraní\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.exe
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+Z:\hraní\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.Cache
+Z:\hraní\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot_set.Form1.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.0\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.1\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot set.exe
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot set.pdb
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\bin\Debug\mandelbrot set.exe
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\bin\Debug\mandelbrot set.pdb
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+Z:\hraní\mandelbrotova množina 1.2\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.Cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.3\mandelbrot set\obj\Debug\mandelbrot set.pdb
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot set.csprojAssemblyReference.cache
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot set.exe
+E:\mandelbrotova množina 1.4\mandelbrot set\obj\Debug\mandelbrot set.pdb
+E:\mandelbrotova množina 1.4\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+E:\mandelbrotova množina 1.4\mandelbrot set\bin\Debug\mandelbrot set.exe
+E:\mandelbrotova množina 1.4\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.5\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.6\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.7\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 1.8\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.0\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.2\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.3\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.5\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.6\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot_set.MocninaDialog.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.7\mandelbrot set\obj\Debug\mandelbrot_set.profiDialog.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot_set.JuliaSetDialog.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot_set.MocninaDialog.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot_set.profiDialog.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotova množina 2.8\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\bin\Debug\mandelbrot set.exe.config
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\bin\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\bin\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.csprojResolveAssemblyReference.cache
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot_set.JuliaSetDialog.resources
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot_set.MandelbrotSet.resources
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot_set.MocninaDialog.resources
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot_set.profiDialog.resources
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.csproj.GenerateResource.cache
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.exe
+C:\Users\david1\Desktop\mandelbrotSet 2,8 en\mandelbrot set\obj\Debug\mandelbrot set.pdb
