@@ -59,5 +59,6 @@ hello unknown stranger, this is my Mandelbrot set viewer. Hope you will like it.
 		Dark/Light mode: changes app mode between light and dark mode.
 
 		Save/Load position: saves/loads position in which are you white now.
-Zooming: to zoom you must click at some point and drag the mouse (red square will be drawn). And release.
-Changing to Julia set: you can use the mouse wheel click to pick a point to change the point as c in z = z^n * c Julia set formula.
+		Zooming: to zoom you must click at some point and drag the mouse (red square will be drawn). And release.
+		Changing to Julia set: you can use the mouse wheel click to pick a point to change the point as c in z = z^n * c Julia 			set formula.
+
