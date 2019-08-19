@@ -51,14 +51,17 @@ hello unknown stranger, this is my Mandelbrot set viewer. Hope you will like it.
 
 	Powers: sets in of formula z = z^n * c, first 5 are much faster to calculate, but the custom can have decimal places and even complex numbers.
 
-	Saving: you can choose in what resolution you want to save your image.
 	Options:
 		Close: closes the application.
-		Save picture: saves a picture that is on display right now.
+		
+		Save picture: saves a picture that is on display right now. After choosing path you can choose resolution. 
+		
 		Ideas for Julia set: have good looking Julia sets.
+		
 		Dark/Light mode: changes app mode between light and dark mode.
 
 		Save/Load position: saves/loads position in which are you white now.
+		
 		Zooming: to zoom you must click at some point and drag the mouse (red square will be drawn). And release.
 		Changing to Julia set: you can use the mouse wheel click to pick a point to change the point as c in z = z^n * c Julia 			set formula.
 
