@@ -236,3 +236,4 @@ C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.
 C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.csproj.CoreCompileInputs.cache
 C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.exe
 C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot set.pdb
+C:\Users\david1\Desktop\mandelbrot  Set\mandelbrot set\obj\Debug\mandelbrot_set.ResoDialog.resources

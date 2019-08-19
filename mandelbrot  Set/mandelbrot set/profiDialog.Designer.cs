@@ -51,9 +51,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.butstorno = new System.Windows.Forms.Button();
             this.butok = new System.Windows.Forms.Button();
+            this.pbPre = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.nudKolikBar)).BeginInit();
             this.gbTlac.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudPocKroku)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbPre)).BeginInit();
             this.SuspendLayout();
             // 
             // nudKolikBar
@@ -83,6 +85,7 @@
             // 
             this.butB1.BackColor = System.Drawing.Color.Blue;
             this.butB1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB1.ForeColor = System.Drawing.Color.Black;
             this.butB1.Location = new System.Drawing.Point(6, 19);
             this.butB1.Name = "butB1";
             this.butB1.Size = new System.Drawing.Size(75, 55);
@@ -95,6 +98,7 @@
             // 
             this.butB2.BackColor = System.Drawing.Color.Red;
             this.butB2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB2.ForeColor = System.Drawing.Color.Black;
             this.butB2.Location = new System.Drawing.Point(87, 19);
             this.butB2.Name = "butB2";
             this.butB2.Size = new System.Drawing.Size(75, 55);
@@ -107,6 +111,7 @@
             // 
             this.butB5.BackColor = System.Drawing.Color.Lime;
             this.butB5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB5.ForeColor = System.Drawing.Color.Black;
             this.butB5.Location = new System.Drawing.Point(6, 141);
             this.butB5.Name = "butB5";
             this.butB5.Size = new System.Drawing.Size(75, 55);
@@ -119,6 +124,7 @@
             // 
             this.butB6.BackColor = System.Drawing.Color.Magenta;
             this.butB6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB6.ForeColor = System.Drawing.Color.Black;
             this.butB6.Location = new System.Drawing.Point(87, 141);
             this.butB6.Name = "butB6";
             this.butB6.Size = new System.Drawing.Size(75, 55);
@@ -131,6 +137,7 @@
             // 
             this.butB8.BackColor = System.Drawing.Color.Aqua;
             this.butB8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB8.ForeColor = System.Drawing.Color.Black;
             this.butB8.Location = new System.Drawing.Point(87, 202);
             this.butB8.Name = "butB8";
             this.butB8.Size = new System.Drawing.Size(75, 55);
@@ -143,6 +150,7 @@
             // 
             this.butB7.BackColor = System.Drawing.Color.PeachPuff;
             this.butB7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB7.ForeColor = System.Drawing.Color.Black;
             this.butB7.Location = new System.Drawing.Point(6, 202);
             this.butB7.Name = "butB7";
             this.butB7.Size = new System.Drawing.Size(75, 55);
@@ -155,6 +163,7 @@
             // 
             this.butB4.BackColor = System.Drawing.Color.Silver;
             this.butB4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB4.ForeColor = System.Drawing.Color.Black;
             this.butB4.Location = new System.Drawing.Point(87, 80);
             this.butB4.Name = "butB4";
             this.butB4.Size = new System.Drawing.Size(75, 55);
@@ -167,6 +176,7 @@
             // 
             this.butB3.BackColor = System.Drawing.Color.Orange;
             this.butB3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB3.ForeColor = System.Drawing.Color.Black;
             this.butB3.Location = new System.Drawing.Point(6, 80);
             this.butB3.Name = "butB3";
             this.butB3.Size = new System.Drawing.Size(75, 55);
@@ -179,6 +189,7 @@
             // 
             this.butB15.BackColor = System.Drawing.Color.Green;
             this.butB15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB15.ForeColor = System.Drawing.Color.Black;
             this.butB15.Location = new System.Drawing.Point(168, 202);
             this.butB15.Name = "butB15";
             this.butB15.Size = new System.Drawing.Size(75, 55);
@@ -191,6 +202,7 @@
             // 
             this.butB16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.butB16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB16.ForeColor = System.Drawing.Color.Black;
             this.butB16.Location = new System.Drawing.Point(249, 202);
             this.butB16.Name = "butB16";
             this.butB16.Size = new System.Drawing.Size(75, 55);
@@ -203,6 +215,7 @@
             // 
             this.butB12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.butB12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB12.ForeColor = System.Drawing.Color.Black;
             this.butB12.Location = new System.Drawing.Point(249, 80);
             this.butB12.Name = "butB12";
             this.butB12.Size = new System.Drawing.Size(75, 55);
@@ -215,6 +228,7 @@
             // 
             this.butB11.BackColor = System.Drawing.Color.LightSteelBlue;
             this.butB11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB11.ForeColor = System.Drawing.Color.Black;
             this.butB11.Location = new System.Drawing.Point(168, 80);
             this.butB11.Name = "butB11";
             this.butB11.Size = new System.Drawing.Size(75, 55);
@@ -227,6 +241,7 @@
             // 
             this.butB13.BackColor = System.Drawing.Color.HotPink;
             this.butB13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB13.ForeColor = System.Drawing.Color.Black;
             this.butB13.Location = new System.Drawing.Point(168, 141);
             this.butB13.Name = "butB13";
             this.butB13.Size = new System.Drawing.Size(75, 55);
@@ -239,6 +254,7 @@
             // 
             this.butB14.BackColor = System.Drawing.Color.HotPink;
             this.butB14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB14.ForeColor = System.Drawing.Color.Black;
             this.butB14.Location = new System.Drawing.Point(249, 141);
             this.butB14.Name = "butB14";
             this.butB14.Size = new System.Drawing.Size(75, 55);
@@ -251,6 +267,7 @@
             // 
             this.butB10.BackColor = System.Drawing.Color.LavenderBlush;
             this.butB10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB10.ForeColor = System.Drawing.Color.Black;
             this.butB10.Location = new System.Drawing.Point(249, 19);
             this.butB10.Name = "butB10";
             this.butB10.Size = new System.Drawing.Size(75, 55);
@@ -263,6 +280,7 @@
             // 
             this.butB9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.butB9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butB9.ForeColor = System.Drawing.Color.Black;
             this.butB9.Location = new System.Drawing.Point(168, 19);
             this.butB9.Name = "butB9";
             this.butB9.Size = new System.Drawing.Size(75, 55);
@@ -339,7 +357,7 @@
             // butstorno
             // 
             this.butstorno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.butstorno.Location = new System.Drawing.Point(12, 338);
+            this.butstorno.Location = new System.Drawing.Point(10, 441);
             this.butstorno.Name = "butstorno";
             this.butstorno.Size = new System.Drawing.Size(64, 23);
             this.butstorno.TabIndex = 31;
@@ -350,7 +368,7 @@
             // butok
             // 
             this.butok.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.butok.Location = new System.Drawing.Point(82, 338);
+            this.butok.Location = new System.Drawing.Point(80, 441);
             this.butok.Name = "butok";
             this.butok.Size = new System.Drawing.Size(64, 23);
             this.butok.TabIndex = 32;
@@ -358,12 +376,21 @@
             this.butok.UseVisualStyleBackColor = true;
             this.butok.Click += new System.EventHandler(this.butok_Click);
             // 
+            // pbPre
+            // 
+            this.pbPre.Location = new System.Drawing.Point(10, 338);
+            this.pbPre.Name = "pbPre";
+            this.pbPre.Size = new System.Drawing.Size(100, 100);
+            this.pbPre.TabIndex = 33;
+            this.pbPre.TabStop = false;
+            // 
             // profiDialog
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(361, 371);
+            this.ClientSize = new System.Drawing.Size(361, 476);
+            this.Controls.Add(this.pbPre);
             this.Controls.Add(this.butok);
             this.Controls.Add(this.butstorno);
             this.Controls.Add(this.label2);
@@ -375,9 +402,11 @@
             this.Name = "profiDialog";
             this.Text = "Professional ";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.profiDialog_FormClosing);
+            this.Load += new System.EventHandler(this.profiDialog_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudKolikBar)).EndInit();
             this.gbTlac.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.nudPocKroku)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbPre)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -408,5 +437,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button butstorno;
         private System.Windows.Forms.Button butok;
+        private System.Windows.Forms.PictureBox pbPre;
     }
 }

@@ -76,6 +76,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResoDialog.Designer.cs">
+      <DependentUpon>ResoDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="ukladani.cs" />
     <EmbeddedResource Include="JuliaSetDialog.resx">
       <DependentUpon>JuliaSetDialog.cs</DependentUpon>
@@ -99,6 +105,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ResoDialog.resx">
+      <DependentUpon>ResoDialog.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

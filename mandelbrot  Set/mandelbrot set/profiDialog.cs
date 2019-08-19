@@ -14,6 +14,8 @@ namespace mandelbrot_set
     {
         public Color[] Barvy = new Color[16];
         public int pocetKrok;
+        Color[] PredBarvy;
+
 
         public profiDialog(int PocetKroku, Color[] BarvIn)
         {
@@ -94,10 +96,7 @@ namespace mandelbrot_set
                 gbTlac.Width = this.Width - 30;
             }
         }
-
-
-       
-
+        
         private void nudKolikBar_ValueChanged(object sender, EventArgs e)
         {
             ZobrazButny();
@@ -147,13 +146,32 @@ namespace mandelbrot_set
                 {
                     ((Control)sender).ForeColor = Color.White;
                 }
-
+                kresleniPrev();
             }
+        }
+
+        private void kresleniPrev() {
+            kresleni.barvyProfi = new Color[Convert.ToInt16(nudKolikBar.Value)];
+            foreach (Button item in gbTlac.Controls)
+            {
+                if (item.Visible)
+                {
+                    kresleni.barvyProfi[Convert.ToInt16(item.Text) - 1] = item.BackColor;
+                }
+            }
+            pbPre.Image = kresleni.kresli(pbPre.Width, pbPre.Height);
         }
 
         private void butstorno_Click(object sender, EventArgs e)
         {
+            kresleni.barvyProfi = PredBarvy;
             this.Close();
+        }
+
+        private void profiDialog_Load(object sender, EventArgs e)
+        {
+            PredBarvy = kresleni.barvyProfi;
+            kresleniPrev();
         }
     }
 }

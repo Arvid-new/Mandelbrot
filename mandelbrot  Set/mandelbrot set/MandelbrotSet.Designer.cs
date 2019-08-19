@@ -33,17 +33,7 @@
             this.pbkresleni = new System.Windows.Forms.PictureBox();
             this.butZmackni = new System.Windows.Forms.Button();
             this.butReset = new System.Windows.Forms.Button();
-            this.rbJednBar = new System.Windows.Forms.RadioButton();
-            this.rbNorm = new System.Windows.Forms.RadioButton();
-            this.rbTmaveni = new System.Windows.Forms.RadioButton();
-            this.rbSvetleni = new System.Windows.Forms.RadioButton();
-            this.rbTmavejsi = new System.Windows.Forms.RadioButton();
             this.butOdzoom = new System.Windows.Forms.Button();
-            this.rbStinovani = new System.Windows.Forms.RadioButton();
-            this.rbNegativ = new System.Windows.Forms.RadioButton();
-            this.rbVlastniM = new System.Windows.Forms.RadioButton();
-            this.rbBileP = new System.Windows.Forms.RadioButton();
-            this.rbCerneP = new System.Windows.Forms.RadioButton();
             this.lblHR = new System.Windows.Forms.Label();
             this.lblAktP = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
@@ -67,38 +57,42 @@
             this.panBarva = new System.Windows.Forms.Panel();
             this.chJuliasSet = new System.Windows.Forms.CheckBox();
             this.hodiny = new System.Windows.Forms.Timer(this.components);
-            this.rbNa6 = new System.Windows.Forms.RadioButton();
-            this.rbNa5 = new System.Windows.Forms.RadioButton();
-            this.rbNa4 = new System.Windows.Forms.RadioButton();
-            this.rbNa3 = new System.Windows.Forms.RadioButton();
-            this.rbNa2 = new System.Windows.Forms.RadioButton();
-            this.tc = new System.Windows.Forms.TabControl();
-            this.tabPozadi = new System.Windows.Forms.TabPage();
-            this.rbProfi = new System.Windows.Forms.RadioButton();
-            this.panJB = new System.Windows.Forms.Panel();
-            this.butZmenaBarvyJB = new System.Windows.Forms.Button();
-            this.tabMnozna = new System.Windows.Forms.TabPage();
-            this.panPoprediM = new System.Windows.Forms.Panel();
-            this.tabMocnina = new System.Windows.Forms.TabPage();
-            this.rbVlastMoc = new System.Windows.Forms.RadioButton();
-            this.tabUkladani = new System.Windows.Forms.TabPage();
-            this.rb8K = new System.Windows.Forms.RadioButton();
-            this.rb720p = new System.Windows.Forms.RadioButton();
-            this.rb1080p = new System.Windows.Forms.RadioButton();
-            this.rbUHD = new System.Windows.Forms.RadioButton();
             this.label1 = new System.Windows.Forms.Label();
             this.nudZmenaVelikosti = new System.Windows.Forms.NumericUpDown();
             this.panelPosuv = new System.Windows.Forms.Panel();
             this.butZmenJS = new System.Windows.Forms.Button();
+            this.tabMocnina = new System.Windows.Forms.TabPage();
+            this.rbNa4 = new System.Windows.Forms.RadioButton();
+            this.rbNa3 = new System.Windows.Forms.RadioButton();
+            this.rbNa5 = new System.Windows.Forms.RadioButton();
+            this.rbNa2 = new System.Windows.Forms.RadioButton();
+            this.rbNa6 = new System.Windows.Forms.RadioButton();
+            this.rbVlastMoc = new System.Windows.Forms.RadioButton();
+            this.tabMnozna = new System.Windows.Forms.TabPage();
+            this.rbBileP = new System.Windows.Forms.RadioButton();
+            this.rbCerneP = new System.Windows.Forms.RadioButton();
+            this.rbVlastniM = new System.Windows.Forms.RadioButton();
+            this.panPoprediM = new System.Windows.Forms.Panel();
+            this.tabPozadi = new System.Windows.Forms.TabPage();
+            this.rbJednBar = new System.Windows.Forms.RadioButton();
+            this.rbTmaveni = new System.Windows.Forms.RadioButton();
+            this.rbSvetleni = new System.Windows.Forms.RadioButton();
+            this.rbTmavejsi = new System.Windows.Forms.RadioButton();
+            this.rbNegativ = new System.Windows.Forms.RadioButton();
+            this.rbNorm = new System.Windows.Forms.RadioButton();
+            this.rbStinovani = new System.Windows.Forms.RadioButton();
+            this.butZmenaBarvyJB = new System.Windows.Forms.Button();
+            this.panJB = new System.Windows.Forms.Panel();
+            this.rbProfi = new System.Windows.Forms.RadioButton();
+            this.tc = new System.Windows.Forms.TabControl();
             ((System.ComponentModel.ISupportInitialize)(this.pbkresleni)).BeginInit();
             this.menuStrip1.SuspendLayout();
-            this.tc.SuspendLayout();
-            this.tabPozadi.SuspendLayout();
-            this.tabMnozna.SuspendLayout();
-            this.tabMocnina.SuspendLayout();
-            this.tabUkladani.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudZmenaVelikosti)).BeginInit();
             this.panelPosuv.SuspendLayout();
+            this.tabMocnina.SuspendLayout();
+            this.tabMnozna.SuspendLayout();
+            this.tabPozadi.SuspendLayout();
+            this.tc.SuspendLayout();
             this.SuspendLayout();
             // 
             // pbkresleni
@@ -138,68 +132,6 @@
             this.butReset.UseVisualStyleBackColor = true;
             this.butReset.Click += new System.EventHandler(this.butReset_Click);
             // 
-            // rbJednBar
-            // 
-            this.rbJednBar.AutoSize = true;
-            this.rbJednBar.ForeColor = System.Drawing.Color.Black;
-            this.rbJednBar.Location = new System.Drawing.Point(5, 55);
-            this.rbJednBar.Name = "rbJednBar";
-            this.rbJednBar.Size = new System.Drawing.Size(110, 17);
-            this.rbJednBar.TabIndex = 4;
-            this.rbJednBar.Text = "One color change";
-            this.rbJednBar.UseVisualStyleBackColor = true;
-            this.rbJednBar.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbNorm
-            // 
-            this.rbNorm.AutoSize = true;
-            this.rbNorm.Checked = true;
-            this.rbNorm.ForeColor = System.Drawing.Color.Black;
-            this.rbNorm.Location = new System.Drawing.Point(6, 7);
-            this.rbNorm.Name = "rbNorm";
-            this.rbNorm.Size = new System.Drawing.Size(58, 17);
-            this.rbNorm.TabIndex = 5;
-            this.rbNorm.TabStop = true;
-            this.rbNorm.Text = "Normal";
-            this.rbNorm.UseVisualStyleBackColor = true;
-            this.rbNorm.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbTmaveni
-            // 
-            this.rbTmaveni.AutoSize = true;
-            this.rbTmaveni.ForeColor = System.Drawing.Color.Black;
-            this.rbTmaveni.Location = new System.Drawing.Point(5, 78);
-            this.rbTmaveni.Name = "rbTmaveni";
-            this.rbTmaveni.Size = new System.Drawing.Size(48, 17);
-            this.rbTmaveni.TabIndex = 6;
-            this.rbTmaveni.Text = "Dark";
-            this.rbTmaveni.UseVisualStyleBackColor = true;
-            this.rbTmaveni.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbSvetleni
-            // 
-            this.rbSvetleni.AutoSize = true;
-            this.rbSvetleni.ForeColor = System.Drawing.Color.Black;
-            this.rbSvetleni.Location = new System.Drawing.Point(5, 101);
-            this.rbSvetleni.Name = "rbSvetleni";
-            this.rbSvetleni.Size = new System.Drawing.Size(48, 17);
-            this.rbSvetleni.TabIndex = 7;
-            this.rbSvetleni.Text = "Light";
-            this.rbSvetleni.UseVisualStyleBackColor = true;
-            this.rbSvetleni.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbTmavejsi
-            // 
-            this.rbTmavejsi.AutoSize = true;
-            this.rbTmavejsi.ForeColor = System.Drawing.Color.Black;
-            this.rbTmavejsi.Location = new System.Drawing.Point(5, 124);
-            this.rbTmavejsi.Name = "rbTmavejsi";
-            this.rbTmavejsi.Size = new System.Drawing.Size(57, 17);
-            this.rbTmavejsi.TabIndex = 8;
-            this.rbTmavejsi.Text = "Darker";
-            this.rbTmavejsi.UseVisualStyleBackColor = true;
-            this.rbTmavejsi.Click += new System.EventHandler(this.vyberMod);
-            // 
             // butOdzoom
             // 
             this.butOdzoom.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -211,71 +143,6 @@
             this.butOdzoom.Text = "zoom out";
             this.butOdzoom.UseVisualStyleBackColor = true;
             this.butOdzoom.Click += new System.EventHandler(this.Odzoom);
-            // 
-            // rbStinovani
-            // 
-            this.rbStinovani.AutoSize = true;
-            this.rbStinovani.ForeColor = System.Drawing.Color.Black;
-            this.rbStinovani.Location = new System.Drawing.Point(5, 30);
-            this.rbStinovani.Name = "rbStinovani";
-            this.rbStinovani.Size = new System.Drawing.Size(78, 17);
-            this.rbStinovani.TabIndex = 10;
-            this.rbStinovani.TabStop = true;
-            this.rbStinovani.Text = "Shadowing";
-            this.rbStinovani.UseVisualStyleBackColor = true;
-            this.rbStinovani.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbNegativ
-            // 
-            this.rbNegativ.AutoSize = true;
-            this.rbNegativ.ForeColor = System.Drawing.Color.Black;
-            this.rbNegativ.Location = new System.Drawing.Point(5, 147);
-            this.rbNegativ.Name = "rbNegativ";
-            this.rbNegativ.Size = new System.Drawing.Size(68, 17);
-            this.rbNegativ.TabIndex = 9;
-            this.rbNegativ.TabStop = true;
-            this.rbNegativ.Text = "Negative";
-            this.rbNegativ.UseVisualStyleBackColor = true;
-            this.rbNegativ.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // rbVlastniM
-            // 
-            this.rbVlastniM.AutoSize = true;
-            this.rbVlastniM.ForeColor = System.Drawing.Color.Black;
-            this.rbVlastniM.Location = new System.Drawing.Point(6, 52);
-            this.rbVlastniM.Name = "rbVlastniM";
-            this.rbVlastniM.Size = new System.Drawing.Size(60, 17);
-            this.rbVlastniM.TabIndex = 2;
-            this.rbVlastniM.TabStop = true;
-            this.rbVlastniM.Text = "Custom";
-            this.rbVlastniM.UseVisualStyleBackColor = true;
-            this.rbVlastniM.Click += new System.EventHandler(this.colorDrb);
-            // 
-            // rbBileP
-            // 
-            this.rbBileP.AutoSize = true;
-            this.rbBileP.ForeColor = System.Drawing.Color.Black;
-            this.rbBileP.Location = new System.Drawing.Point(6, 29);
-            this.rbBileP.Name = "rbBileP";
-            this.rbBileP.Size = new System.Drawing.Size(53, 17);
-            this.rbBileP.TabIndex = 1;
-            this.rbBileP.Text = "White";
-            this.rbBileP.UseVisualStyleBackColor = true;
-            this.rbBileP.CheckedChanged += new System.EventHandler(this.rbCerna_CheckedChanged);
-            // 
-            // rbCerneP
-            // 
-            this.rbCerneP.AutoSize = true;
-            this.rbCerneP.Checked = true;
-            this.rbCerneP.ForeColor = System.Drawing.Color.Black;
-            this.rbCerneP.Location = new System.Drawing.Point(6, 6);
-            this.rbCerneP.Name = "rbCerneP";
-            this.rbCerneP.Size = new System.Drawing.Size(52, 17);
-            this.rbCerneP.TabIndex = 0;
-            this.rbCerneP.TabStop = true;
-            this.rbCerneP.Text = "Black";
-            this.rbCerneP.UseVisualStyleBackColor = true;
-            this.rbCerneP.CheckedChanged += new System.EventHandler(this.rbCerna_CheckedChanged);
             // 
             // lblHR
             // 
@@ -478,239 +345,6 @@
             this.hodiny.Interval = 1;
             this.hodiny.Tick += new System.EventHandler(this.hodiny_Tick);
             // 
-            // rbNa6
-            // 
-            this.rbNa6.AutoSize = true;
-            this.rbNa6.Location = new System.Drawing.Point(8, 99);
-            this.rbNa6.Name = "rbNa6";
-            this.rbNa6.Size = new System.Drawing.Size(89, 17);
-            this.rbNa6.TabIndex = 4;
-            this.rbNa6.Text = "On 6th power";
-            this.rbNa6.UseVisualStyleBackColor = true;
-            this.rbNa6.Click += new System.EventHandler(this.naKolik);
-            // 
-            // rbNa5
-            // 
-            this.rbNa5.AutoSize = true;
-            this.rbNa5.Location = new System.Drawing.Point(8, 76);
-            this.rbNa5.Name = "rbNa5";
-            this.rbNa5.Size = new System.Drawing.Size(89, 17);
-            this.rbNa5.TabIndex = 3;
-            this.rbNa5.Text = "On 5th power";
-            this.rbNa5.UseVisualStyleBackColor = true;
-            this.rbNa5.Click += new System.EventHandler(this.naKolik);
-            // 
-            // rbNa4
-            // 
-            this.rbNa4.AutoSize = true;
-            this.rbNa4.Location = new System.Drawing.Point(8, 53);
-            this.rbNa4.Name = "rbNa4";
-            this.rbNa4.Size = new System.Drawing.Size(89, 17);
-            this.rbNa4.TabIndex = 2;
-            this.rbNa4.Text = "On 4th power";
-            this.rbNa4.UseVisualStyleBackColor = true;
-            this.rbNa4.Click += new System.EventHandler(this.naKolik);
-            // 
-            // rbNa3
-            // 
-            this.rbNa3.AutoSize = true;
-            this.rbNa3.Location = new System.Drawing.Point(8, 30);
-            this.rbNa3.Name = "rbNa3";
-            this.rbNa3.Size = new System.Drawing.Size(89, 17);
-            this.rbNa3.TabIndex = 1;
-            this.rbNa3.Text = "On 3rd power";
-            this.rbNa3.UseVisualStyleBackColor = true;
-            this.rbNa3.Click += new System.EventHandler(this.naKolik);
-            // 
-            // rbNa2
-            // 
-            this.rbNa2.AutoSize = true;
-            this.rbNa2.Checked = true;
-            this.rbNa2.Location = new System.Drawing.Point(8, 7);
-            this.rbNa2.Name = "rbNa2";
-            this.rbNa2.Size = new System.Drawing.Size(92, 17);
-            this.rbNa2.TabIndex = 0;
-            this.rbNa2.TabStop = true;
-            this.rbNa2.Text = "On 2nd power";
-            this.rbNa2.UseVisualStyleBackColor = true;
-            this.rbNa2.Click += new System.EventHandler(this.naKolik);
-            // 
-            // tc
-            // 
-            this.tc.Controls.Add(this.tabPozadi);
-            this.tc.Controls.Add(this.tabMnozna);
-            this.tc.Controls.Add(this.tabMocnina);
-            this.tc.Controls.Add(this.tabUkladani);
-            this.tc.Location = new System.Drawing.Point(3, 191);
-            this.tc.Name = "tc";
-            this.tc.SelectedIndex = 0;
-            this.tc.Size = new System.Drawing.Size(170, 217);
-            this.tc.TabIndex = 23;
-            // 
-            // tabPozadi
-            // 
-            this.tabPozadi.BackColor = System.Drawing.Color.White;
-            this.tabPozadi.Controls.Add(this.rbProfi);
-            this.tabPozadi.Controls.Add(this.panJB);
-            this.tabPozadi.Controls.Add(this.butZmenaBarvyJB);
-            this.tabPozadi.Controls.Add(this.rbStinovani);
-            this.tabPozadi.Controls.Add(this.rbNorm);
-            this.tabPozadi.Controls.Add(this.rbNegativ);
-            this.tabPozadi.Controls.Add(this.rbTmavejsi);
-            this.tabPozadi.Controls.Add(this.rbSvetleni);
-            this.tabPozadi.Controls.Add(this.rbTmaveni);
-            this.tabPozadi.Controls.Add(this.rbJednBar);
-            this.tabPozadi.Location = new System.Drawing.Point(4, 22);
-            this.tabPozadi.Name = "tabPozadi";
-            this.tabPozadi.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPozadi.Size = new System.Drawing.Size(162, 191);
-            this.tabPozadi.TabIndex = 0;
-            this.tabPozadi.Text = "Color of background";
-            // 
-            // rbProfi
-            // 
-            this.rbProfi.AutoSize = true;
-            this.rbProfi.ForeColor = System.Drawing.Color.Black;
-            this.rbProfi.Location = new System.Drawing.Point(5, 168);
-            this.rbProfi.Name = "rbProfi";
-            this.rbProfi.Size = new System.Drawing.Size(82, 17);
-            this.rbProfi.TabIndex = 13;
-            this.rbProfi.TabStop = true;
-            this.rbProfi.Text = "Professional";
-            this.rbProfi.UseVisualStyleBackColor = true;
-            this.rbProfi.Click += new System.EventHandler(this.vyberMod);
-            // 
-            // panJB
-            // 
-            this.panJB.BackColor = System.Drawing.Color.Aqua;
-            this.panJB.Location = new System.Drawing.Point(110, 78);
-            this.panJB.Name = "panJB";
-            this.panJB.Size = new System.Drawing.Size(40, 21);
-            this.panJB.TabIndex = 12;
-            this.panJB.Visible = false;
-            // 
-            // butZmenaBarvyJB
-            // 
-            this.butZmenaBarvyJB.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.butZmenaBarvyJB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.butZmenaBarvyJB.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.5F);
-            this.butZmenaBarvyJB.Location = new System.Drawing.Point(110, 49);
-            this.butZmenaBarvyJB.Name = "butZmenaBarvyJB";
-            this.butZmenaBarvyJB.Size = new System.Drawing.Size(40, 23);
-            this.butZmenaBarvyJB.TabIndex = 11;
-            this.butZmenaBarvyJB.Text = "color";
-            this.butZmenaBarvyJB.UseVisualStyleBackColor = true;
-            this.butZmenaBarvyJB.Visible = false;
-            this.butZmenaBarvyJB.Click += new System.EventHandler(this.butZmenaBarvyJB_Click);
-            // 
-            // tabMnozna
-            // 
-            this.tabMnozna.BackColor = System.Drawing.Color.White;
-            this.tabMnozna.Controls.Add(this.panPoprediM);
-            this.tabMnozna.Controls.Add(this.rbVlastniM);
-            this.tabMnozna.Controls.Add(this.rbCerneP);
-            this.tabMnozna.Controls.Add(this.rbBileP);
-            this.tabMnozna.ForeColor = System.Drawing.Color.Black;
-            this.tabMnozna.Location = new System.Drawing.Point(4, 22);
-            this.tabMnozna.Name = "tabMnozna";
-            this.tabMnozna.Padding = new System.Windows.Forms.Padding(3);
-            this.tabMnozna.Size = new System.Drawing.Size(162, 191);
-            this.tabMnozna.TabIndex = 1;
-            this.tabMnozna.Text = "Color of set";
-            // 
-            // panPoprediM
-            // 
-            this.panPoprediM.BackColor = System.Drawing.Color.DarkGray;
-            this.panPoprediM.Location = new System.Drawing.Point(77, 52);
-            this.panPoprediM.Name = "panPoprediM";
-            this.panPoprediM.Size = new System.Drawing.Size(40, 21);
-            this.panPoprediM.TabIndex = 13;
-            this.panPoprediM.Visible = false;
-            // 
-            // tabMocnina
-            // 
-            this.tabMocnina.BackColor = System.Drawing.Color.White;
-            this.tabMocnina.Controls.Add(this.rbVlastMoc);
-            this.tabMocnina.Controls.Add(this.rbNa6);
-            this.tabMocnina.Controls.Add(this.rbNa2);
-            this.tabMocnina.Controls.Add(this.rbNa5);
-            this.tabMocnina.Controls.Add(this.rbNa3);
-            this.tabMocnina.Controls.Add(this.rbNa4);
-            this.tabMocnina.Location = new System.Drawing.Point(4, 22);
-            this.tabMocnina.Name = "tabMocnina";
-            this.tabMocnina.Padding = new System.Windows.Forms.Padding(3);
-            this.tabMocnina.Size = new System.Drawing.Size(162, 191);
-            this.tabMocnina.TabIndex = 2;
-            this.tabMocnina.Text = "Powers";
-            // 
-            // rbVlastMoc
-            // 
-            this.rbVlastMoc.AutoSize = true;
-            this.rbVlastMoc.Location = new System.Drawing.Point(8, 122);
-            this.rbVlastMoc.Name = "rbVlastMoc";
-            this.rbVlastMoc.Size = new System.Drawing.Size(60, 17);
-            this.rbVlastMoc.TabIndex = 6;
-            this.rbVlastMoc.Text = "Custom";
-            this.rbVlastMoc.UseVisualStyleBackColor = true;
-            this.rbVlastMoc.Click += new System.EventHandler(this.rbVlastMoc_CheckedChanged);
-            // 
-            // tabUkladani
-            // 
-            this.tabUkladani.BackColor = System.Drawing.Color.White;
-            this.tabUkladani.Controls.Add(this.rb8K);
-            this.tabUkladani.Controls.Add(this.rb720p);
-            this.tabUkladani.Controls.Add(this.rb1080p);
-            this.tabUkladani.Controls.Add(this.rbUHD);
-            this.tabUkladani.Location = new System.Drawing.Point(4, 22);
-            this.tabUkladani.Name = "tabUkladani";
-            this.tabUkladani.Padding = new System.Windows.Forms.Padding(3);
-            this.tabUkladani.Size = new System.Drawing.Size(162, 191);
-            this.tabUkladani.TabIndex = 3;
-            this.tabUkladani.Text = "Saving";
-            // 
-            // rb8K
-            // 
-            this.rb8K.AutoSize = true;
-            this.rb8K.Location = new System.Drawing.Point(6, 6);
-            this.rb8K.Name = "rb8K";
-            this.rb8K.Size = new System.Drawing.Size(82, 17);
-            this.rb8K.TabIndex = 4;
-            this.rb8K.Text = "8K Ultra HD";
-            this.rb8K.UseVisualStyleBackColor = true;
-            // 
-            // rb720p
-            // 
-            this.rb720p.AutoSize = true;
-            this.rb720p.Location = new System.Drawing.Point(6, 75);
-            this.rb720p.Name = "rb720p";
-            this.rb720p.Size = new System.Drawing.Size(49, 17);
-            this.rb720p.TabIndex = 2;
-            this.rb720p.Text = "720p";
-            this.rb720p.UseVisualStyleBackColor = true;
-            this.rb720p.Click += new System.EventHandler(this.zmenaRozliseni);
-            // 
-            // rb1080p
-            // 
-            this.rb1080p.AutoSize = true;
-            this.rb1080p.Location = new System.Drawing.Point(6, 52);
-            this.rb1080p.Name = "rb1080p";
-            this.rb1080p.Size = new System.Drawing.Size(55, 17);
-            this.rb1080p.TabIndex = 1;
-            this.rb1080p.Text = "1080p";
-            this.rb1080p.UseVisualStyleBackColor = true;
-            this.rb1080p.Click += new System.EventHandler(this.zmenaRozliseni);
-            // 
-            // rbUHD
-            // 
-            this.rbUHD.AutoSize = true;
-            this.rbUHD.Location = new System.Drawing.Point(6, 29);
-            this.rbUHD.Name = "rbUHD";
-            this.rbUHD.Size = new System.Drawing.Size(66, 17);
-            this.rbUHD.TabIndex = 0;
-            this.rbUHD.Text = "Ultra HD";
-            this.rbUHD.UseVisualStyleBackColor = true;
-            this.rbUHD.Click += new System.EventHandler(this.zmenaRozliseni);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -778,6 +412,308 @@
             this.butZmenJS.UseVisualStyleBackColor = true;
             this.butZmenJS.Click += new System.EventHandler(this.butZmenJS_Click);
             // 
+            // tabMocnina
+            // 
+            this.tabMocnina.BackColor = System.Drawing.Color.White;
+            this.tabMocnina.Controls.Add(this.rbVlastMoc);
+            this.tabMocnina.Controls.Add(this.rbNa6);
+            this.tabMocnina.Controls.Add(this.rbNa2);
+            this.tabMocnina.Controls.Add(this.rbNa5);
+            this.tabMocnina.Controls.Add(this.rbNa3);
+            this.tabMocnina.Controls.Add(this.rbNa4);
+            this.tabMocnina.Location = new System.Drawing.Point(4, 22);
+            this.tabMocnina.Name = "tabMocnina";
+            this.tabMocnina.Padding = new System.Windows.Forms.Padding(3);
+            this.tabMocnina.Size = new System.Drawing.Size(162, 191);
+            this.tabMocnina.TabIndex = 2;
+            this.tabMocnina.Text = "Powers";
+            // 
+            // rbNa4
+            // 
+            this.rbNa4.AutoSize = true;
+            this.rbNa4.Location = new System.Drawing.Point(8, 53);
+            this.rbNa4.Name = "rbNa4";
+            this.rbNa4.Size = new System.Drawing.Size(89, 17);
+            this.rbNa4.TabIndex = 2;
+            this.rbNa4.Text = "On 4th power";
+            this.rbNa4.UseVisualStyleBackColor = true;
+            this.rbNa4.Click += new System.EventHandler(this.naKolik);
+            // 
+            // rbNa3
+            // 
+            this.rbNa3.AutoSize = true;
+            this.rbNa3.Location = new System.Drawing.Point(8, 30);
+            this.rbNa3.Name = "rbNa3";
+            this.rbNa3.Size = new System.Drawing.Size(89, 17);
+            this.rbNa3.TabIndex = 1;
+            this.rbNa3.Text = "On 3rd power";
+            this.rbNa3.UseVisualStyleBackColor = true;
+            this.rbNa3.Click += new System.EventHandler(this.naKolik);
+            // 
+            // rbNa5
+            // 
+            this.rbNa5.AutoSize = true;
+            this.rbNa5.Location = new System.Drawing.Point(8, 76);
+            this.rbNa5.Name = "rbNa5";
+            this.rbNa5.Size = new System.Drawing.Size(89, 17);
+            this.rbNa5.TabIndex = 3;
+            this.rbNa5.Text = "On 5th power";
+            this.rbNa5.UseVisualStyleBackColor = true;
+            this.rbNa5.Click += new System.EventHandler(this.naKolik);
+            // 
+            // rbNa2
+            // 
+            this.rbNa2.AutoSize = true;
+            this.rbNa2.Checked = true;
+            this.rbNa2.Location = new System.Drawing.Point(8, 7);
+            this.rbNa2.Name = "rbNa2";
+            this.rbNa2.Size = new System.Drawing.Size(92, 17);
+            this.rbNa2.TabIndex = 0;
+            this.rbNa2.TabStop = true;
+            this.rbNa2.Text = "On 2nd power";
+            this.rbNa2.UseVisualStyleBackColor = true;
+            this.rbNa2.Click += new System.EventHandler(this.naKolik);
+            // 
+            // rbNa6
+            // 
+            this.rbNa6.AutoSize = true;
+            this.rbNa6.Location = new System.Drawing.Point(8, 99);
+            this.rbNa6.Name = "rbNa6";
+            this.rbNa6.Size = new System.Drawing.Size(89, 17);
+            this.rbNa6.TabIndex = 4;
+            this.rbNa6.Text = "On 6th power";
+            this.rbNa6.UseVisualStyleBackColor = true;
+            this.rbNa6.Click += new System.EventHandler(this.naKolik);
+            // 
+            // rbVlastMoc
+            // 
+            this.rbVlastMoc.AutoSize = true;
+            this.rbVlastMoc.Location = new System.Drawing.Point(8, 122);
+            this.rbVlastMoc.Name = "rbVlastMoc";
+            this.rbVlastMoc.Size = new System.Drawing.Size(60, 17);
+            this.rbVlastMoc.TabIndex = 6;
+            this.rbVlastMoc.Text = "Custom";
+            this.rbVlastMoc.UseVisualStyleBackColor = true;
+            this.rbVlastMoc.Click += new System.EventHandler(this.rbVlastMoc_CheckedChanged);
+            // 
+            // tabMnozna
+            // 
+            this.tabMnozna.BackColor = System.Drawing.Color.White;
+            this.tabMnozna.Controls.Add(this.panPoprediM);
+            this.tabMnozna.Controls.Add(this.rbVlastniM);
+            this.tabMnozna.Controls.Add(this.rbCerneP);
+            this.tabMnozna.Controls.Add(this.rbBileP);
+            this.tabMnozna.ForeColor = System.Drawing.Color.Black;
+            this.tabMnozna.Location = new System.Drawing.Point(4, 22);
+            this.tabMnozna.Name = "tabMnozna";
+            this.tabMnozna.Padding = new System.Windows.Forms.Padding(3);
+            this.tabMnozna.Size = new System.Drawing.Size(162, 191);
+            this.tabMnozna.TabIndex = 1;
+            this.tabMnozna.Text = "Color of set";
+            // 
+            // rbBileP
+            // 
+            this.rbBileP.AutoSize = true;
+            this.rbBileP.ForeColor = System.Drawing.Color.Black;
+            this.rbBileP.Location = new System.Drawing.Point(6, 29);
+            this.rbBileP.Name = "rbBileP";
+            this.rbBileP.Size = new System.Drawing.Size(53, 17);
+            this.rbBileP.TabIndex = 1;
+            this.rbBileP.Text = "White";
+            this.rbBileP.UseVisualStyleBackColor = true;
+            this.rbBileP.CheckedChanged += new System.EventHandler(this.rbCerna_CheckedChanged);
+            // 
+            // rbCerneP
+            // 
+            this.rbCerneP.AutoSize = true;
+            this.rbCerneP.Checked = true;
+            this.rbCerneP.ForeColor = System.Drawing.Color.Black;
+            this.rbCerneP.Location = new System.Drawing.Point(6, 6);
+            this.rbCerneP.Name = "rbCerneP";
+            this.rbCerneP.Size = new System.Drawing.Size(52, 17);
+            this.rbCerneP.TabIndex = 0;
+            this.rbCerneP.TabStop = true;
+            this.rbCerneP.Text = "Black";
+            this.rbCerneP.UseVisualStyleBackColor = true;
+            this.rbCerneP.CheckedChanged += new System.EventHandler(this.rbCerna_CheckedChanged);
+            // 
+            // rbVlastniM
+            // 
+            this.rbVlastniM.AutoSize = true;
+            this.rbVlastniM.ForeColor = System.Drawing.Color.Black;
+            this.rbVlastniM.Location = new System.Drawing.Point(6, 52);
+            this.rbVlastniM.Name = "rbVlastniM";
+            this.rbVlastniM.Size = new System.Drawing.Size(60, 17);
+            this.rbVlastniM.TabIndex = 2;
+            this.rbVlastniM.TabStop = true;
+            this.rbVlastniM.Text = "Custom";
+            this.rbVlastniM.UseVisualStyleBackColor = true;
+            this.rbVlastniM.Click += new System.EventHandler(this.colorDrb);
+            // 
+            // panPoprediM
+            // 
+            this.panPoprediM.BackColor = System.Drawing.Color.DarkGray;
+            this.panPoprediM.Location = new System.Drawing.Point(77, 52);
+            this.panPoprediM.Name = "panPoprediM";
+            this.panPoprediM.Size = new System.Drawing.Size(40, 21);
+            this.panPoprediM.TabIndex = 13;
+            this.panPoprediM.Visible = false;
+            // 
+            // tabPozadi
+            // 
+            this.tabPozadi.BackColor = System.Drawing.Color.White;
+            this.tabPozadi.Controls.Add(this.rbProfi);
+            this.tabPozadi.Controls.Add(this.panJB);
+            this.tabPozadi.Controls.Add(this.butZmenaBarvyJB);
+            this.tabPozadi.Controls.Add(this.rbStinovani);
+            this.tabPozadi.Controls.Add(this.rbNorm);
+            this.tabPozadi.Controls.Add(this.rbNegativ);
+            this.tabPozadi.Controls.Add(this.rbTmavejsi);
+            this.tabPozadi.Controls.Add(this.rbSvetleni);
+            this.tabPozadi.Controls.Add(this.rbTmaveni);
+            this.tabPozadi.Controls.Add(this.rbJednBar);
+            this.tabPozadi.Location = new System.Drawing.Point(4, 22);
+            this.tabPozadi.Name = "tabPozadi";
+            this.tabPozadi.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPozadi.Size = new System.Drawing.Size(162, 191);
+            this.tabPozadi.TabIndex = 0;
+            this.tabPozadi.Text = "Color of background";
+            // 
+            // rbJednBar
+            // 
+            this.rbJednBar.AutoSize = true;
+            this.rbJednBar.ForeColor = System.Drawing.Color.Black;
+            this.rbJednBar.Location = new System.Drawing.Point(5, 55);
+            this.rbJednBar.Name = "rbJednBar";
+            this.rbJednBar.Size = new System.Drawing.Size(110, 17);
+            this.rbJednBar.TabIndex = 4;
+            this.rbJednBar.Text = "One color change";
+            this.rbJednBar.UseVisualStyleBackColor = true;
+            this.rbJednBar.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbTmaveni
+            // 
+            this.rbTmaveni.AutoSize = true;
+            this.rbTmaveni.ForeColor = System.Drawing.Color.Black;
+            this.rbTmaveni.Location = new System.Drawing.Point(5, 78);
+            this.rbTmaveni.Name = "rbTmaveni";
+            this.rbTmaveni.Size = new System.Drawing.Size(48, 17);
+            this.rbTmaveni.TabIndex = 6;
+            this.rbTmaveni.Text = "Dark";
+            this.rbTmaveni.UseVisualStyleBackColor = true;
+            this.rbTmaveni.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbSvetleni
+            // 
+            this.rbSvetleni.AutoSize = true;
+            this.rbSvetleni.ForeColor = System.Drawing.Color.Black;
+            this.rbSvetleni.Location = new System.Drawing.Point(5, 101);
+            this.rbSvetleni.Name = "rbSvetleni";
+            this.rbSvetleni.Size = new System.Drawing.Size(48, 17);
+            this.rbSvetleni.TabIndex = 7;
+            this.rbSvetleni.Text = "Light";
+            this.rbSvetleni.UseVisualStyleBackColor = true;
+            this.rbSvetleni.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbTmavejsi
+            // 
+            this.rbTmavejsi.AutoSize = true;
+            this.rbTmavejsi.ForeColor = System.Drawing.Color.Black;
+            this.rbTmavejsi.Location = new System.Drawing.Point(5, 124);
+            this.rbTmavejsi.Name = "rbTmavejsi";
+            this.rbTmavejsi.Size = new System.Drawing.Size(57, 17);
+            this.rbTmavejsi.TabIndex = 8;
+            this.rbTmavejsi.Text = "Darker";
+            this.rbTmavejsi.UseVisualStyleBackColor = true;
+            this.rbTmavejsi.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbNegativ
+            // 
+            this.rbNegativ.AutoSize = true;
+            this.rbNegativ.ForeColor = System.Drawing.Color.Black;
+            this.rbNegativ.Location = new System.Drawing.Point(5, 147);
+            this.rbNegativ.Name = "rbNegativ";
+            this.rbNegativ.Size = new System.Drawing.Size(68, 17);
+            this.rbNegativ.TabIndex = 9;
+            this.rbNegativ.TabStop = true;
+            this.rbNegativ.Text = "Negative";
+            this.rbNegativ.UseVisualStyleBackColor = true;
+            this.rbNegativ.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbNorm
+            // 
+            this.rbNorm.AutoSize = true;
+            this.rbNorm.Checked = true;
+            this.rbNorm.ForeColor = System.Drawing.Color.Black;
+            this.rbNorm.Location = new System.Drawing.Point(6, 7);
+            this.rbNorm.Name = "rbNorm";
+            this.rbNorm.Size = new System.Drawing.Size(58, 17);
+            this.rbNorm.TabIndex = 5;
+            this.rbNorm.TabStop = true;
+            this.rbNorm.Text = "Normal";
+            this.rbNorm.UseVisualStyleBackColor = true;
+            this.rbNorm.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // rbStinovani
+            // 
+            this.rbStinovani.AutoSize = true;
+            this.rbStinovani.ForeColor = System.Drawing.Color.Black;
+            this.rbStinovani.Location = new System.Drawing.Point(5, 30);
+            this.rbStinovani.Name = "rbStinovani";
+            this.rbStinovani.Size = new System.Drawing.Size(78, 17);
+            this.rbStinovani.TabIndex = 10;
+            this.rbStinovani.TabStop = true;
+            this.rbStinovani.Text = "Shadowing";
+            this.rbStinovani.UseVisualStyleBackColor = true;
+            this.rbStinovani.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // butZmenaBarvyJB
+            // 
+            this.butZmenaBarvyJB.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.butZmenaBarvyJB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.butZmenaBarvyJB.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.5F);
+            this.butZmenaBarvyJB.Location = new System.Drawing.Point(110, 49);
+            this.butZmenaBarvyJB.Name = "butZmenaBarvyJB";
+            this.butZmenaBarvyJB.Size = new System.Drawing.Size(40, 23);
+            this.butZmenaBarvyJB.TabIndex = 11;
+            this.butZmenaBarvyJB.Text = "color";
+            this.butZmenaBarvyJB.UseVisualStyleBackColor = true;
+            this.butZmenaBarvyJB.Visible = false;
+            this.butZmenaBarvyJB.Click += new System.EventHandler(this.butZmenaBarvyJB_Click);
+            // 
+            // panJB
+            // 
+            this.panJB.BackColor = System.Drawing.Color.Aqua;
+            this.panJB.Location = new System.Drawing.Point(110, 78);
+            this.panJB.Name = "panJB";
+            this.panJB.Size = new System.Drawing.Size(40, 21);
+            this.panJB.TabIndex = 12;
+            this.panJB.Visible = false;
+            // 
+            // rbProfi
+            // 
+            this.rbProfi.AutoSize = true;
+            this.rbProfi.ForeColor = System.Drawing.Color.Black;
+            this.rbProfi.Location = new System.Drawing.Point(5, 168);
+            this.rbProfi.Name = "rbProfi";
+            this.rbProfi.Size = new System.Drawing.Size(82, 17);
+            this.rbProfi.TabIndex = 13;
+            this.rbProfi.TabStop = true;
+            this.rbProfi.Text = "Professional";
+            this.rbProfi.UseVisualStyleBackColor = true;
+            this.rbProfi.Click += new System.EventHandler(this.vyberMod);
+            // 
+            // tc
+            // 
+            this.tc.Controls.Add(this.tabPozadi);
+            this.tc.Controls.Add(this.tabMnozna);
+            this.tc.Controls.Add(this.tabMocnina);
+            this.tc.Location = new System.Drawing.Point(3, 191);
+            this.tc.Name = "tc";
+            this.tc.SelectedIndex = 0;
+            this.tc.Size = new System.Drawing.Size(170, 217);
+            this.tc.TabIndex = 23;
+            // 
             // MandelbrotSet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -800,18 +736,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.pbkresleni)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.tc.ResumeLayout(false);
-            this.tabPozadi.ResumeLayout(false);
-            this.tabPozadi.PerformLayout();
-            this.tabMnozna.ResumeLayout(false);
-            this.tabMnozna.PerformLayout();
-            this.tabMocnina.ResumeLayout(false);
-            this.tabMocnina.PerformLayout();
-            this.tabUkladani.ResumeLayout(false);
-            this.tabUkladani.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudZmenaVelikosti)).EndInit();
             this.panelPosuv.ResumeLayout(false);
             this.panelPosuv.PerformLayout();
+            this.tabMocnina.ResumeLayout(false);
+            this.tabMocnina.PerformLayout();
+            this.tabMnozna.ResumeLayout(false);
+            this.tabMnozna.PerformLayout();
+            this.tabPozadi.ResumeLayout(false);
+            this.tabPozadi.PerformLayout();
+            this.tc.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -822,22 +756,13 @@
         private System.Windows.Forms.PictureBox pbkresleni;
         private System.Windows.Forms.Button butZmackni;
         private System.Windows.Forms.Button butReset;
-        private System.Windows.Forms.RadioButton rbJednBar;
-        private System.Windows.Forms.RadioButton rbNorm;
-        private System.Windows.Forms.RadioButton rbTmaveni;
-        private System.Windows.Forms.RadioButton rbSvetleni;
-        private System.Windows.Forms.RadioButton rbTmavejsi;
         private System.Windows.Forms.Button butOdzoom;
-        private System.Windows.Forms.RadioButton rbBileP;
-        private System.Windows.Forms.RadioButton rbCerneP;
         private System.Windows.Forms.Label lblHR;
         private System.Windows.Forms.Label lblAktP;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem nastaveníToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem vypnoutAplikaciToolStripMenuItem;
         private System.Windows.Forms.Button butLenost;
-        private System.Windows.Forms.RadioButton rbNegativ;
-        private System.Windows.Forms.RadioButton rbVlastniM;
         private System.Windows.Forms.Button butVybrBar;
         private System.Windows.Forms.Panel panBarva;
         private System.Windows.Forms.ToolStripMenuItem uložitObrázekToolStripMenuItem;
@@ -853,32 +778,36 @@
         private System.Windows.Forms.ToolStripMenuItem iToolStripMenuItem5;
         private System.Windows.Forms.ToolStripMenuItem tmavýRežimToolStripMenuItem;
         private System.Windows.Forms.Timer hodiny;
-        private System.Windows.Forms.RadioButton rbStinovani;
-        private System.Windows.Forms.RadioButton rbNa5;
-        private System.Windows.Forms.RadioButton rbNa4;
-        private System.Windows.Forms.RadioButton rbNa3;
-        private System.Windows.Forms.RadioButton rbNa2;
-        private System.Windows.Forms.RadioButton rbNa6;
-        private System.Windows.Forms.TabControl tc;
-        private System.Windows.Forms.TabPage tabPozadi;
-        private System.Windows.Forms.TabPage tabMnozna;
-        private System.Windows.Forms.TabPage tabMocnina;
-        private System.Windows.Forms.TabPage tabUkladani;
-        private System.Windows.Forms.RadioButton rb720p;
-        private System.Windows.Forms.RadioButton rb1080p;
-        private System.Windows.Forms.RadioButton rbUHD;
-        private System.Windows.Forms.RadioButton rb8K;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.NumericUpDown nudZmenaVelikosti;
         private System.Windows.Forms.Panel panelPosuv;
-        private System.Windows.Forms.Panel panJB;
-        private System.Windows.Forms.Button butZmenaBarvyJB;
-        private System.Windows.Forms.RadioButton rbProfi;
         private System.Windows.Forms.ToolStripMenuItem uložitPoziciToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem načístPoziciToolStripMenuItem;
-        private System.Windows.Forms.Panel panPoprediM;
-        private System.Windows.Forms.RadioButton rbVlastMoc;
         private System.Windows.Forms.Button butZmenJS;
+        private System.Windows.Forms.TabControl tc;
+        private System.Windows.Forms.TabPage tabPozadi;
+        private System.Windows.Forms.RadioButton rbProfi;
+        private System.Windows.Forms.Panel panJB;
+        private System.Windows.Forms.Button butZmenaBarvyJB;
+        private System.Windows.Forms.RadioButton rbStinovani;
+        private System.Windows.Forms.RadioButton rbNorm;
+        private System.Windows.Forms.RadioButton rbNegativ;
+        private System.Windows.Forms.RadioButton rbTmavejsi;
+        private System.Windows.Forms.RadioButton rbSvetleni;
+        private System.Windows.Forms.RadioButton rbTmaveni;
+        private System.Windows.Forms.RadioButton rbJednBar;
+        private System.Windows.Forms.TabPage tabMnozna;
+        private System.Windows.Forms.Panel panPoprediM;
+        private System.Windows.Forms.RadioButton rbVlastniM;
+        private System.Windows.Forms.RadioButton rbCerneP;
+        private System.Windows.Forms.RadioButton rbBileP;
+        private System.Windows.Forms.TabPage tabMocnina;
+        private System.Windows.Forms.RadioButton rbVlastMoc;
+        private System.Windows.Forms.RadioButton rbNa6;
+        private System.Windows.Forms.RadioButton rbNa2;
+        private System.Windows.Forms.RadioButton rbNa5;
+        private System.Windows.Forms.RadioButton rbNa3;
+        private System.Windows.Forms.RadioButton rbNa4;
     }
 }
 

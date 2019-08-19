@@ -570,6 +570,8 @@ namespace mandelbrot_set
                 }
                 else
                 {
+                    int typBarvPred = kresleni.typBarvy;
+                    kresleni.typBarvy = 7;
                     profiDialog pd = new profiDialog(kresleni.PocetKroku, kresleni.barvyProfi);
                     pd.ShowDialog();
                     if (pd.DialogResult == DialogResult.OK)
@@ -579,7 +581,8 @@ namespace mandelbrot_set
                     }
                     else
                     {
-                        switch (kresleni.typBarvy)
+                        kresleni.typBarvy = typBarvPred; 
+                        switch (typBarvPred)
                         {
                             case 0:
                                 rbNorm.Checked = true;
@@ -605,7 +608,6 @@ namespace mandelbrot_set
                         }
                         return;
                     }
-                    kresleni.typBarvy = 7;
                 }
                 #endregion
 
@@ -626,41 +628,24 @@ namespace mandelbrot_set
             System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=PD2XgQOyCCk");
         }
         #region ukladani
-        int uloVelikost = 720;
         private void uložitObrázekToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
+
             SaveFileDialog sv = new SaveFileDialog();
             sv.Filter = "BMP|*.bmp|JPEG|*.jpeg|GIF|*.gif|PNG|*.png";
             if (sv.ShowDialog() == DialogResult.OK)
             {
-                Bitmap uloz = kresleni.kresli(uloVelikost, uloVelikost);
-                uloz.Save(sv.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
-                MessageBox.Show("Saving picture was successful", "Saved", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                ResoDialog rd = new ResoDialog();
+                if (rd.ShowDialog() == DialogResult.OK)
+                {
+                    Bitmap uloz = kresleni.kresli(rd.Res, rd.Res);
+                    uloz.Save(sv.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
+                    MessageBox.Show("Saving picture was successful", "Saved", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                }
+                
             }
 
-        }
-        private void zmenaRozliseni(object sender, EventArgs e)
-        {
-            RadioButton sen = (RadioButton)sender;
-            if (sen.Checked)
-            {
-                if (sen.Name == rb720p.Name)
-                {
-                    uloVelikost = 1280;
-                }
-                else if (sen.Name == rb1080p.Name)
-                {
-                    uloVelikost = 1920;
-                }
-                else if(sen.Name == rb8K.Name)
-                {
-                    uloVelikost = 7680;
-                }
-                else
-                {
-                    uloVelikost = 3840;
-                }
-            }
         }
         #endregion
 
@@ -685,7 +670,7 @@ namespace mandelbrot_set
                     tmavý = false;
                     return;
                 }
-                tabUkladani.BackColor = tabMnozna.BackColor = tabMocnina.BackColor = tabPozadi.BackColor = butOdzoom.BackColor = butVybrBar.BackColor =butZmackni.BackColor =butReset.BackColor = butLenost.BackColor = BackColor = Color.FromArgb(BackColor.R - 5, BackColor.G - 5, BackColor.B - 5);               
+                tabMnozna.BackColor = tabMocnina.BackColor = tabPozadi.BackColor = butOdzoom.BackColor = butVybrBar.BackColor =butZmackni.BackColor =butReset.BackColor = butLenost.BackColor = BackColor = Color.FromArgb(BackColor.R - 5, BackColor.G - 5, BackColor.B - 5);               
                 ForeColor = Color.FromArgb(ForeColor.R + 5, ForeColor.G + 5, ForeColor.B + 5);
                 foreach (Control item in tabPozadi.Controls)
                 {
@@ -695,10 +680,7 @@ namespace mandelbrot_set
                 {
                     item.ForeColor = ForeColor;
                 }
-                foreach (Control item in tabUkladani.Controls)
-                {
-                    item.ForeColor = ForeColor;
-                }
+                
                 nudZmenaVelikosti.ForeColor = Color.Black;
             }
             else
@@ -710,7 +692,7 @@ namespace mandelbrot_set
                     tmavý = true;
                     return;
                 }
-                tabUkladani.BackColor = tabMnozna.BackColor = tabMocnina.BackColor = tabPozadi.BackColor = butVybrBar.BackColor = butOdzoom.BackColor = butZmackni.BackColor = butReset.BackColor = butLenost.BackColor = BackColor = Color.FromArgb(BackColor.R + 5, BackColor.G + 5, BackColor.B + 5);
+                tabMnozna.BackColor = tabMocnina.BackColor = tabPozadi.BackColor = butVybrBar.BackColor = butOdzoom.BackColor = butZmackni.BackColor = butReset.BackColor = butLenost.BackColor = BackColor = Color.FromArgb(BackColor.R + 5, BackColor.G + 5, BackColor.B + 5);
 
                 ForeColor = Color.FromArgb(ForeColor.R - 5, ForeColor.G - 5, ForeColor.B - 5);
                 foreach (Control item in tabPozadi.Controls)
@@ -718,10 +700,6 @@ namespace mandelbrot_set
                     item.ForeColor = ForeColor;
                 }
                 foreach (Control item in tabMnozna.Controls)
-                {
-                    item.ForeColor = ForeColor;
-                }
-                foreach (Control item in tabUkladani.Controls)
                 {
                     item.ForeColor = ForeColor;
                 }
